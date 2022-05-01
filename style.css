@@ -4,6 +4,7 @@
 }
 
 body {
+    background-color: rgb(206, 192, 192);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +16,7 @@ body {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    border: 2px solid rgb(0,119,255);
+    border: 2px solid black;
     position: relative;
 }
 
